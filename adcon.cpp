@@ -1,4 +1,4 @@
-//biggest code till lol;
+
 #include<iostream>
 #include<string.h>
 #include<utility>//for std::move 
