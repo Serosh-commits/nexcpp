@@ -1,3 +1,4 @@
+//THIS IS MY OWN HASH LIBRARY I MADE IT MYSELF IN FUTURE I WANT TO MAKE IT DYNAMIC WITH SORTING 
 #include<iostream>
 #include<vector>
 using namespace std;
