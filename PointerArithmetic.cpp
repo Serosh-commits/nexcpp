@@ -1,4 +1,4 @@
-/*
+/*Try this
  * Once you have a pointer,
  *  arithmetic lets you walk memory like a grid: p + n advances by n * sizeof(*p) bytes.
  */
